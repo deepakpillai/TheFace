@@ -1,2 +1,2 @@
 # TheFace
-Fun Animated Face Written in SwiftUI
+A fun animated face written in SwiftUI
